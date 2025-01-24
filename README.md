@@ -1,0 +1,1 @@
+This repository contains the code used in the Signal and Image processing assignment, where by transfer learning from Google's EfficientNetB0 was combined with CNN image classification to perform Facial Emotion Recognition (FER) using the FER-2013 dataset alongside a collection of images given to us.
